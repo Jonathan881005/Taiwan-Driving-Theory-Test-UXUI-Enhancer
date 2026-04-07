@@ -28,7 +28,7 @@
 
 2. **安裝腳本**
     - 點擊下方連結進行安裝：
-    - **Greasy Fork：** [點擊此處安裝](https://greasyfork.org/zh-TW/scripts/512345) (連結需替換為您實際發佈的網址)
+    - **Greasy Fork：** [點擊此處安裝](https://github.com/Jonathan881005/Taiwan-Driving-Theory-Test-UXUI-Enhancer) (連結需替換為您實際發佈的網址)
 
 ---
 
