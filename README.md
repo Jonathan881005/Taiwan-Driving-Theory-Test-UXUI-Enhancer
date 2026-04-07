@@ -28,7 +28,7 @@
 
 2. **安裝腳本**
     - 點擊下方連結進行安裝：
-    - **Greasy Fork：** [點擊此處安裝](https://github.com/Jonathan881005/Taiwan-Driving-Theory-Test-UXUI-Enhancer) (連結需替換為您實際發佈的網址)
+    - **Greasy Fork：** [點擊此處安裝](https://greasyfork.org/zh-TW/scripts/572934-%E9%A7%95%E7%85%A7%E7%AD%86%E8%A9%A6%E6%A8%A1%E8%80%83-ux-ui-%E5%84%AA%E5%8C%96?locale_override=1)
 
 ---
 
@@ -57,7 +57,7 @@
 
 ## 支持
 
-如果覺得好用，可以給我一個 [GitHub Star](https://github.com/Jonathan881005/Gemini-Better-UI/) 讓我更快找到工作。  
+如果覺得好用，可以給我一個 [GitHub Star](https://github.com/Jonathan881005/Taiwan-Driving-Theory-Test-UXUI-Enhancer) 讓我更快找到工作。  
 <br>
 也可以 [請我喝杯咖啡](https://ko-fi.com/jonathanlu1005)。
 
@@ -99,7 +99,7 @@ Optimizes the official MVDIS (Taiwan) driving theory test simulator. Speed up yo
 
 2. **Install the Script**
     - Click the link below to install:
-    - **Greasy Fork:** [Click here to install](https://greasyfork.org/zh-TW/scripts/512345) (Replace with your actual URL)
+    - **Greasy Fork:** [Click here to install](https://greasyfork.org/en/scripts/572934-taiwan-driving-theory-test-ux-ui-enhancer)
 
 ---
 
@@ -128,7 +128,7 @@ Optimizes the official MVDIS (Taiwan) driving theory test simulator. Speed up yo
 
 ## Support
 
-If you're enjoying it, a [GitHub star](https://github.com/Jonathan881005/Gemini-Better-UI/) would help me find a job.  
+If you're enjoying it, a [GitHub star](https://github.com/Jonathan881005/Taiwan-Driving-Theory-Test-UXUI-Enhancer) would help me find a job.  
 <br>
 You can also [Buy Me a Coffee](https://ko-fi.com/jonathanlu1005).
 
